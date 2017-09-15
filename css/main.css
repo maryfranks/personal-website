@@ -1,10 +1,19 @@
+/* Color Palette
+#242426
+#545458
+#338D9B
+#9B9B9E
+#EDEDF4
+#515168 (independance purple grey)
+*/
+
 html {
   font-family: Georgia;
-  color: #4e4d5c;
+  color: #545458;
 }
 
 body {
-  background-color: #a8b9c2;
+  background-color: #EDEDF4;
 }
 
 h1  {
