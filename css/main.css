@@ -5,6 +5,10 @@
 #9B9B9E
 #EDEDF4
 #515168 (independance purple grey)
+fonts
+Main Headings -             font-family: 'Patua One', cursive;
+Other Headings and links -  font-family: 'Oswald', sans-serif;
+Text -                      font-family: 'Old Standard TT', serif;
 */
 .float-clear {
   clear: both;
