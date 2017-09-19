@@ -6,6 +6,9 @@
 #EDEDF4
 #515168 (independance purple grey)
 */
+.float-clear {
+  clear: both;
+}
 
 html {
   font-family: Georgia;
@@ -27,7 +30,22 @@ h2 {
 h3 {
   text-align: center;
 }
+.personal-info {
+  float: left;
+  width: 24%;
+}
 
+.about-me {
+  float: left;
+  width: 74%;
+}
 .name-info {
   margin-top: 10%;
+}
+
+.project {
+  /*float: left;*/
+  margin: 5px;
+  width: 200px;
+  height: 200px;
 }
