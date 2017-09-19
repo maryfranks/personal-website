@@ -57,3 +57,8 @@ h3 {
 .in-line {
   display: inline;
 }
+
+.portfolio-tile {
+  float: left;
+  box-shadow: 0 4px 8px 0px grey, 0 6px 20px 0 gainsboro;
+}
