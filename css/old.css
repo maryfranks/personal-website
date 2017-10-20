@@ -1,0 +1,110 @@
+/* Color Palette
+#242426
+#545458
+#338D9B
+#9B9B9E
+#EDEDF4
+#515168 (independance purple grey)
+fonts
+Main Headings -             font-family: 'Patua One', cursive;
+Other Headings and links -  font-family: 'Oswald', sans-serif;
+Text -                      font-family: 'Old Standard TT', serif;
+*/
+.float-clear {
+  clear: both;
+}
+
+html {
+  font-family: 'Old Standard TT', serif;
+  color: #545458;
+  font-size: 14pt;
+}
+
+body {
+  background-color: #EDEDF4;
+}
+
+header {
+  margin-bottom: 15px;
+  padding: 5px;
+  background-color: #338D9B;
+}
+
+a {
+  color: #242426;
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: bold;
+  color: #515168;
+}
+
+header a {
+  font-family: 'Oswald', sans-serif;
+  padding: 10px;
+  color: #EDEDF4;
+}
+
+h1  {
+  text-align: center;
+  font-family: 'Patua One', cursive;
+  font-size: 26pt;
+  letter-spacing: 2px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+
+h4 {
+  font-size: 15pt;
+}
+
+.personal-info {
+  float: left;
+  width: 24%;
+}
+
+.portrait {
+  text-align: center;
+  border-radius: 50%;
+}
+
+.about-me {
+  margin-left: 10px;
+  float: left;
+  width: 74%;
+}
+.name-info {
+  margin-top: 10%;
+}
+
+.projects h2 {
+  padding-top: 40px;
+}
+
+.project {
+  margin: 5px;
+  width: 150px;
+  height: 150px;
+}
+
+.in-line {
+  display: inline;
+}
+
+.portfolio-tile {
+  float: left;
+  box-shadow: 0 4px 8px 0px grey, 0 6px 20px 0 gainsboro;
+}
+
+.project-links {
+  padding: 20px;
+}
